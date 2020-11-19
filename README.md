@@ -61,9 +61,9 @@
 <p>2. Індивідуальне завдання <img src="Лаб2.Денисюк" alt="завдання"> </p> 
 <p>3. <iframe src="lab2.1.pdf" width="500" height="700"></iframe></p>
 <p>4. <a href="https://drive.google.com/file/d/1kS-hBbOlJe9osKxCradBQVuz6_WYeXna/view?usp=sharing">Посилання на Гугл диск</a></p>
-<p>5. <a https://pnpu-my.sharepoint.com/:x:/g/personal/denisyuk_va_pdpu_edu_ua/EQ41Q5ARLuJFk8T6USy_kYcBfuGRBnnX_LfUcqrZoaE_xQ?e=y4repw"> Посилання на OneDrive</a></p>
+<p>5. <a "https://pnpu-my.sharepoint.com/:x:/g/personal/denisyuk_va_pdpu_edu_ua/EQ41Q5ARLuJFk8T6USy_kYcBfuGRBnnX_LfUcqrZoaE_xQ?e=y4repw"> Посилання на OneDrive</a></p>
 <p>6.1 <a href="Денисюк.лаб2">Формат Microsoft</a></p>
-<p>6.1 <a https://docs.google.com/spreadsheets/d/1y5ZCzZZysYYaMV6CVmT-0W-i27up8zglwmnXgOT1I5w/edit?usp=sharing> Посилання на Гугл таблиці</a></p>
+<p>6.1 <a "https://docs.google.com/spreadsheets/d/1y5ZCzZZysYYaMV6CVmT-0W-i27up8zglwmnXgOT1I5w/edit?usp=sharing"> Посилання на Гугл таблиці</a></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHvXuaKKUqzEOLCOvdVDc2u1vCEM7ETWj1ZONodqoeVoeV9A49JErKpSwxu2bCJTOiyxbVcSzN0D0D/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 </iframe>
 
