@@ -59,12 +59,13 @@
    
 <h2>звіт до лабораторної роботи №1. Тема - Формування за зразком</h2> 
 <p>2. Індивідуальне завдання <img src="Лаб2.Денисюк" alt="завдання"> </p> 
-<p>3. <p>3. <iframe src="lab2.1.pdf" width="500" height="700"></iframe></p></p> 
+<p>3. <iframe src="lab2.1.pdf" width="500" height="700"></iframe></p>
 <p>4. <a href="https://drive.google.com/file/d/1kS-hBbOlJe9osKxCradBQVuz6_WYeXna/view?usp=sharing">Посилання на Гугл диск</a></p>
-<p>5. <a https://pnpu-my.sharepoint.com/:x:/r/personal/denisyuk_va_pdpu_edu_ua/_layouts/15/Doc.aspx?sourcedoc=%7B9043350E-2E11-45E2-93C4-FA512CBF9187%7D&file=%D0%94%D0%B5%D0%BD%D0%B8%D1%81%D1%8E%D0%BA.%D0%BB%D0%B0%D0%B12.xls&action=default&mobileredirect=true&cid=e633d8a2-c3c0-46b7-b081-ec5fcf2053de">Посилання на OneDrive</a></p>
-<p>6.1 <a href="lab1.docx">Формат Microsoft (*.docx)</a></p>
- <p>6.1 <a https://docs.google.com/spreadsheets/d/1y5ZCzZZysYYaMV6CVmT-0W-i27up8zglwmnXgOT1I5w/edit#gid=0> Посилання на Гугл таблиці</a></p>
-
+<p>5. <a https://pnpu-my.sharepoint.com/:x:/g/personal/denisyuk_va_pdpu_edu_ua/EQ41Q5ARLuJFk8T6USy_kYcBfuGRBnnX_LfUcqrZoaE_xQ?e=y4repw"> Посилання на OneDrive</a></p>
+<p>6.1 <a href="Денисюк.лаб2">Формат Microsoft</a></p>
+<p>6.1 <a https://docs.google.com/spreadsheets/d/1y5ZCzZZysYYaMV6CVmT-0W-i27up8zglwmnXgOT1I5w/edit?usp=sharing> Посилання на Гугл таблиці</a></p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHvXuaKKUqzEOLCOvdVDc2u1vCEM7ETWj1ZONodqoeVoeV9A49JErKpSwxu2bCJTOiyxbVcSzN0D0D/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
 
     <h2>Сайт-звіт до лабораторних робіт студентки 1 курсу групи "математики"</h2>
    </div>
