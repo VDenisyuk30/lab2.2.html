@@ -56,12 +56,22 @@
   <div id="container">
    <div id="header">Сайт-звіт до лабораторних робіт студентки 1 курсу групи "математики" Денисюк Валерії</div>
   <div id="content">
+   
+<h2>звіт до лабораторної роботи №1. Тема - Формування за зразком</h2> 
+<p>2. Індивідуальне завдання <img src="Лаб2.Денисюк" alt="завдання"> </p> 
+<p>3. <p>3. <iframe src="lab2.1.pdf" width="500" height="700"></iframe></p></p> 
+<p>4. <a href="https://drive.google.com/file/d/1kS-hBbOlJe9osKxCradBQVuz6_WYeXna/view?usp=sharing">Посилання на Гугл диск</a></p>
+<p>5. <a https://pnpu-my.sharepoint.com/:x:/r/personal/denisyuk_va_pdpu_edu_ua/_layouts/15/Doc.aspx?sourcedoc=%7B9043350E-2E11-45E2-93C4-FA512CBF9187%7D&file=%D0%94%D0%B5%D0%BD%D0%B8%D1%81%D1%8E%D0%BA.%D0%BB%D0%B0%D0%B12.xls&action=default&mobileredirect=true&cid=e633d8a2-c3c0-46b7-b081-ec5fcf2053de">Посилання на OneDrive</a></p>
+<p>6.1 <a href="lab1.docx">Формат Microsoft (*.docx)</a></p>
+ <p>6.1 <a https://docs.google.com/spreadsheets/d/1y5ZCzZZysYYaMV6CVmT-0W-i27up8zglwmnXgOT1I5w/edit#gid=0> Посилання на Гугл таблиці</a></p>
+
+
     <h2>Сайт-звіт до лабораторних робіт студентки 1 курсу групи "математики"</h2>
    </div>
    <div id="sidebar">
-    <p><a href="informatic">Домашня сторінка</a></p>
+    <p><a href="index.html">Домашня сторінка</a></p>
     <p><a href="lab1.html">звіт до лабораторної роботи №1. Тема - Текстовий процесор</a></p>
-    <p><a href="lab2.html">звіт до лабораторної роботи №2. Тема - Google презентація</a></p>
+    <p><a href="lab2.html">звіт до лабораторної роботи №2. Тема - Формування за зразком</a></p>
     <p><a href="lab3.html">звіт до лабораторної роботи №3. Тема - Google малюнок</a></p>
     <p><a href="lab4.html">звіт до лабораторної роботи №4. Тема - Google форма-опитування</a></p>
    <p><a href="lab5.html">звіт до лабораторної роботи №5. Тема - Google форма-тестування</a></p>
