@@ -59,7 +59,7 @@
    
 <h2>Звіт до лабораторної роботи №2. Тема - Формування за зразком</h2> 
 <p>2. Індивідуальне завдання <img src="Денисюк.лаб2" alt="завдання"> </p> 
-<p>3. <iframe src="Денисюк.лаб2.pdf" width="500" height="700"></iframe></p>
+<p>3. <iframe src="Лаб2.пдф.pdf" width="500" height="700"></iframe></p>
 <p>4. <a href="https://drive.google.com/file/d/1kS-hBbOlJe9osKxCradBQVuz6_WYeXna/view?usp=sharing">Посилання на Гугл диск</a></p>
 <p>5. <a href="https://pnpu-my.sharepoint.com/:x:/g/personal/denisyuk_va_pdpu_edu_ua/EQ41Q5ARLuJFk8T6USy_kYcBfuGRBnnX_LfUcqrZoaE_xQ?e=y4repw"> Посилання на OneDrive</a></p>
 <p>6.1 <a href="Денисюк.лаб2.xlsx">Формат Microsoft</a></p>
